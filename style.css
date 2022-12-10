@@ -61,7 +61,7 @@ body{
     border-radius: 10px;
     line-height: 26px;
     font-size: 25px;
-    font-family: 'Patrick Hand';
+    font-family: 'Patrick Hand', cursive;
 }
 .gap{
     background-color: aqua;
